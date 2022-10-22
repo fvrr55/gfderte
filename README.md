@@ -1,7 +1,8 @@
 ### 关注甬哥项目https://gitlab.com/rwkgyg/
 
- <details><summary>..
- ### [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/fvrr55/gfderte )
+<details>
+<summary>..
+ [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/fvrr55/gfderte )
 
  
 ### 请下载以上代码，使用Github进行代码托管并连接heroku
